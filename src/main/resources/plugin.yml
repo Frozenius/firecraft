@@ -1,0 +1,8 @@
+name: FireCraft
+version: '1.0-SNAPSHOT'
+main: de.derhardi.firecraft.Main
+api-version: 1.17
+commands:
+  sethome:
+    description: Set a home
+    usage: /sethome
